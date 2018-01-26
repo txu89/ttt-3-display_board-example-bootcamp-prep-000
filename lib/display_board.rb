@@ -3,7 +3,10 @@ def display_board
   cell = "   "
   column_separator = "|"
   row_separator = "___________"
-  row = 
-  puts cell + column_separator + cell + column_separator + cell
+  row = cell + column_separator + cell + column_separator + cell
+  puts row
   puts row_separator
-  
+  puts row
+  puts row_separator
+  puts row
+end
